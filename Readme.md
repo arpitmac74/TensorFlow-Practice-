@@ -1,4 +1,4 @@
-##Tensorflow and Keras basics with Computer Vision 
+***Tensorflow and Keras basics with Computer Vision*** 
 
 All the intructions and installation procedures for Cuda toolkit 9.0 and required libraies.
 
