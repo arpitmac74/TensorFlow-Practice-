@@ -10,3 +10,11 @@ Use of tensorflow 1.8.0 and compatbile Keras is also highly reommended.
 ## Output accuracy training 3 neural network with different activation functions
 
 ![alt text](/Pics/download.png)
+
+## Classified Images using CNN with 99% accuracy 
+
+![alt text](/Pics/Handwrittendigitswithkeras.png)
+
+## Misclassified Images
+
+![alt text](/Pics/handigitskerasmispredicted.png)
